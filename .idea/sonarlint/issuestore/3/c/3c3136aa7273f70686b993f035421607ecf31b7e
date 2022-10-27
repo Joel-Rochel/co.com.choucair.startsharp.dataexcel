@@ -1,0 +1,21 @@
+
+g
+java:S1871T"LThis branch's code block is the same as the block for the branch on line 79.(‚Χ³¦ÿÿÿÿÿ
+b
+java:S1871Q"LThis branch's code block is the same as the block for the branch on line 79.(νϋήκ
+g
+java:S1871V"LThis branch's code block is the same as the block for the branch on line 79.(¶‚ψÿÿÿÿ
+m
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ψ£Ϊσϋÿÿÿÿ
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ώ•φªωÿÿÿÿ
+n
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒB
+n
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒB
+F
+java:S1066"/Merge this if statement with the enclosing one.(Τ‘Θ
+s
+java:S1488$"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(‡κ…„
+s
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(ΫΞ¶ο

@@ -1,0 +1,6 @@
+
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(óªíø8úó®œı/
+‚
+java:S1128"eRemove this unused import 'co.com.choucair.startsharp.dataexcel.userinterface.GoToCreateMeetingPage'.(Ğ‰¶µ8¶Íıœı/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÂÈƒÿÿÿÿÿ

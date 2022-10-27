@@ -1,0 +1,52 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(®¯êôıÿÿÿÿ
+n
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(—ûùœÿÿÿÿÿ
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(øÚŞÜ
+I
+java:S1481'"3Remove this unused "excelDataRange" local variable.(¼ÒÊ…
+_
+java:S18584"J"dataVector" is an array of strings, there's no need to call "toString()".(³™õ5
+`
+java:S1858>"J"dataVector" is an array of strings, there's no need to call "toString()".(®åºÚ
+p
+java:S3923Y"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÅÎŒR
+<
+java:S1125Y"'Remove the unnecessary boolean literal.(ÅÎŒR
+B
+java:S1125e"'Remove the unnecessary boolean literal.(…ÚÏ³ıÿÿÿÿ
+B
+java:S1125n"'Remove the unnecessary boolean literal.(ïˆúùúÿÿÿÿ
+B
+java:S1125w"'Remove the unnecessary boolean literal.(—Øñêøÿÿÿÿ
+B
+java:S1125x"'Remove the unnecessary boolean literal.(ôóó×şÿÿÿÿ
+B
+java:S1125{"'Remove the unnecessary boolean literal.(¿Œñüıÿÿÿÿ
+C
+java:S1125‰"'Remove the unnecessary boolean literal.(…ÚÏ³ıÿÿÿÿ
+U
+java:S4719Å"9Replace charset name argument with StandardCharsets.UTF_8(âÙşôùÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë†ÅŒ
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(²öÔËıÿÿÿÿ
+n	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(Ù÷Âé
+r	java:S127y"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö¸å”ıÿÿÿÿ
+m	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÎ´?
+s	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ
+J
+java:S1066x"/Merge this if statement with the enclosing one.(ôóó×şÿÿÿÿ
+7
+java:S1643["Use a StringBuilder instead.(Š’”×şÿÿÿÿ
+7
+java:S1643_"Use a StringBuilder instead.(Š’”×şÿÿÿÿ
+7
+java:S1643i"Use a StringBuilder instead.(Š’”×şÿÿÿÿ
+7
+java:S1643p"Use a StringBuilder instead.(Š’”×şÿÿÿÿ
+c
+java:S2259‹"MA "NullPointerException" could be thrown; "dataVectorRango" is nullable here.(ıáæ
